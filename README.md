@@ -1,6 +1,6 @@
 # Game of Life
 
-By Teagan Atwater, for Knotel
+By Teagan Atwater
 
 ## Project Setup
 
